@@ -1,1 +1,1 @@
-# Java-Core-1-Amaliyot
+# Java Core 1 Amaliyot
